@@ -37,7 +37,7 @@
 
 ---
 ## 목적지 예측 모델
-![image](https://user-images.githubusercontent.com/79970424/126075255-b183cd3f-049e-40df-8e62-17acb1b9cae1.png)
+![image](https://user-images.githubusercontent.com/79970424/126107028-fbc18fb5-6f29-4926-8fc1-d546418541ac.png)
 - 모델의 Baseline 설정
 
 ![image](https://user-images.githubusercontent.com/79970424/126075269-c9ca56ea-11cb-43de-aad5-9833af33521b.png)
